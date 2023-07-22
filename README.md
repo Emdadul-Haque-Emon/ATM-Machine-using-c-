@@ -1,3 +1,4 @@
 # Project-ATM
 # A standard ATM project using cpp.
-# You can create file which is included to the program to save password and balance.
+# User account balance and password are securely stored in files, persisting across multiple program runs.
+# The account is blocked after 3 incorrect login attempts, enhancing security.
