@@ -1,3 +1,3 @@
 # Project-ATM
 # A standard ATM project using cpp.
-# Including file to save password and balance.
+# You can create file which is included to the program to save password and balance.
